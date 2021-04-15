@@ -1,0 +1,59 @@
+################################################################
+Author: Mustafa Bilgin                                       ###
+all rights secured by the law                                ###
+source:https://archive.org/details/egyptianhiero00budg       ###
+      :https://archive.org/details/cu31924026909618/mode/2up ###
+################################################################
+
+
+transliteration
+
+  1-jr m ntw.f ḫr.tw sn.wy n wꜥ m(jw)t n wꜥ jt(j) jnpw rn pꜣ ꜥꜣ
+    jw bꜣtꜣw rn pꜣ šrjw ḫr jr jnpw sw ẖry pr ẖry ḥmt
+
+  2-jw pꜣy.f sn šrjw m-dj.f mj sḫrw n šrjw jw m ntw.f jrr.tw
+    n.f ḥbsw  jw.f ḥr šmyt m-sꜣ nꜣy.f jꜣwt r sḫtw
+
+  3-[j]w m ntw.f jrr.tw  skꜣ m ntw.f ꜥwꜣyw ḫr m ntw.f jrrt.n.f
+    wpwt nb nty m sḫtw js.tw jw pꜣy.f sn šrjw
+
+  4-bꜣkw nfr  nn wn ḳdw.f  m tꜣ ḏr.f js wnn.f sn nfr  ḫr jr
+    m-ḫt hrw ḳnw ḥr-sꜣ nn [jw pꜣy].f sn šrjw
+
+  5- m-sꜣ nꜣy.f jꜣwt m pꜣy.f sḫrw  nty rꜥ-nb  m ntw.f ḥr
+     jjt r pꜣy.f pr tnw  r whꜣ jw.f ꜣtp
+
+  6- m sty(?) nb n sḫt nty jrrw m-ḫt wḥꜥw  m pꜣ sḫt m tw.f
+     wꜣḥw m-bꜣḥ  pꜣy.f sn ꜥꜣ jw.f ḥms ḥnꜥ
+
+
+
+
+
+
+coptic version
+
+  1- ⲉ ⲛ̅ⲧⲟϥ ϩⲁⲧⲟⲩ ⲥⲟⲛⲟⲩ ⲛ̅ ⲟⲩⲉⲓ ⲙⲁⲁⲩ ⲛ̅ ⲟⲩⲁ ⲉⲓⲱⲧ
+  ⲓⲛⲡⲩ ⲡⲉϥⲣⲁⲛ ⲡⲁⲟⲩⲛⲟϭ ⲃⲁⲧⲁⲩ ⲡⲉϥⲣⲁⲛ ⲡⲁϣⲏⲣⲉ ⲁⲗⲗⲁ ⲓⲛⲡⲩ _____ⲡⲏⲓ
+  ϩⲁ__ ⲥϩⲓⲙⲉ
+  2- ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ ⲛ̅ⲧⲟⲟⲧϥ̅ ⲛ̅ ϣⲏⲣⲉ ⲛ̅ⲧⲟϥ
+  3- ⲛ̅ⲧⲟϥ ⲉⲣⲓⲣⲉ? ⲥⲕⲁⲓ ⲛ̅ⲧⲟϥ ⲕⲱⲗⲡ ϩⲁ ⲛ̅ⲧⲟϥ ⲉⲣⲓⲣⲉ ⲛⲁϥ  ⲟⲩⲱ ⲛⲏⲃ ⲛⲧⲉ ϩⲙ̅ ⲛ̅ⲥⲟϣⲉ ⲉⲓⲥ
+     ⲡⲁϥ ⲥⲟⲛ ⲡϣⲏⲣⲉ
+  4- _____ⲛⲟϥⲣⲓ______ ϩⲙ̅ ⲕⲁϩⲓ ⲧⲏⲣϥ̅ ⲉⲓⲥ ⲟⲩⲛ? ⲛⲟϥⲣⲓ  ⲁⲗⲗⲁ ϩⲓⲡⲁϩⲟⲩ ⲁϣⲁⲓ ⲧⲏ ⲛⲁⲓ  ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ
+  5-
+
+
+
+
+glossary
+  js: ⲉⲓⲥ
+  ꜥwꜣyw: robbering(?),  ⲕⲱⲗⲡ,ⲧⲱⲣⲡ
+  ḳnw: many, long time :ⲁϣⲁⲓ ⲧⲏ
+  skꜣ: ⲥⲕⲁⲓ
+  ḥbsw:cloth, clothing
+  ḫr jr: but, though copt.:ⲁⲗⲗⲁ
+  m-ḫt: after, copt.: ϩⲓⲡⲁϩⲟⲩ
+  ḥr sꜣ: after ⲛⲥⲁ-
+  jꜣwt:flocks, (referring to mankind)
+  bꜣkw:revenues, taxes, impost, wages, work, task, workmanship, execution (of a design)
+  wpwt: message     copt.: ⲟⲩⲱ
