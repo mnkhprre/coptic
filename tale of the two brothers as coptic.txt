@@ -21,7 +21,7 @@ transliteration
     m-ḫt hrw ḳnw ḥr-sꜣ nn [jw pꜣy].f sn šrjw
 
   5- m-sꜣ nꜣy.f jꜣwt m pꜣy.f sḫrw  nty rꜥ-nb  m ntw.f ḥr
-     jjt r pꜣy.f pr tnw  r whꜣ jw.f ꜣtp
+     jjt r pꜣy.f pr tnw  rwhꜣ jw.f ꜣtp
 
   6- wꜣḥw m-bꜣḥ  pꜣy.f sn ꜥꜣ jw.f ḥms ḥnꜥ
 
@@ -33,15 +33,12 @@ transliteration
 coptic version
 
   1- ⲉ ⲛ̅ⲧⲟϥ ϩⲁⲧⲟⲩ ⲥⲟⲛⲟⲩ ⲛ̅ ⲟⲩⲉⲓ ⲙⲁⲁⲩ ⲛ̅ ⲟⲩⲁ ⲉⲓⲱⲧ
-  ⲓⲛⲡⲩ ⲡⲉϥⲣⲁⲛ ⲡⲁⲟⲩⲛⲟϭ ⲃⲁⲧⲁⲩ ⲡⲉϥⲣⲁⲛ ⲡϣⲏⲣⲉ ⲁⲗⲗⲁ ⲓⲛⲡⲩ _____ⲡⲏⲓ
-  ϩⲁ__ ⲥϩⲓⲙⲉ
-     ⲓⲛⲡⲩ ⲡⲉϥⲣⲁⲛ ⲡⲁⲟⲩⲛⲟϭ ⲃⲁⲧⲁⲩ ⲡⲉϥⲣⲁⲛ ⲡϣⲏⲣⲉ ⲁⲗⲗⲁ ⲓⲛⲡⲩ _____ⲡⲏⲓ
-     ϩⲁ__ ⲥϩⲓⲙⲉ
+     ⲓⲛⲡⲩ ⲡⲉϥⲣⲁⲛ ⲡⲁⲟⲩⲛⲟϭ ⲃⲁⲧⲁⲩ ⲡⲉϥⲣⲁⲛ ⲡϣⲏⲣⲉ ⲁⲗⲗⲁ ⲓⲛⲡⲩ _____ⲡⲏⲓ ϩⲁ__ ⲥϩⲓⲙⲉ
   2- ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ ⲛ̅ⲧⲟⲟⲧϥ̅ ⲛ̅ ϣⲏⲣⲉ ⲛ̅ⲧⲟϥ
   3- ⲛ̅ⲧⲟϥ ⲉⲣⲓⲣⲉ? ⲥⲕⲁⲓ ⲛ̅ⲧⲟϥ ⲕⲱⲗⲡ ϩⲁ ⲛ̅ⲧⲟϥ ⲉⲣⲓⲣⲉ ⲛⲁϥ  ⲟⲩⲱ ⲛⲏⲃ ⲛⲧⲉ ϩⲙ̅ ⲛ̅ⲥⲟϣⲉ ⲉⲓⲥ
      ⲡⲁϥ ⲥⲟⲛ ⲡϣⲏⲣⲉ
   4- _____ⲛⲟϥⲣⲓ______ ϩⲙ̅ ⲕⲁϩⲓ ⲧⲏⲣϥ̅ ⲉⲓⲥ ⲟⲩⲛ? ⲛⲟϥⲣⲓ  ⲁⲗⲗⲁ ϩⲓⲡⲁϩⲟⲩ ⲁϣⲁⲓ ⲧⲏ ⲛⲁⲓ  ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ
-  5- ⲛ̅ⲥⲁ ⲛⲁϥ̅ ⲟϩⲉ ϩⲙ̅ ⲡⲁϥ ____ⲛ̅ⲧⲉ ⲙⲏⲛⲉ ⲛ̅ⲧⲟϥ
+  5- ⲛ̅ⲥⲁ ⲛⲁϥ̅ ⲟϩⲉ ϩⲙ̅ ⲡⲁϥ ____ⲛ̅ⲧⲉ ⲙⲏⲛⲉ ⲛ̅ⲧⲟϥ ϩⲓ ⲉⲓⲧ? ⲉ ⲡⲁϥ  ⲧⲛⲡⲏⲓ ⲣⲟⲩϩⲉ
 
 
 
@@ -52,10 +49,13 @@ glossary
   ꜣtp ==>ⲱⲧⲡ
   ꜥwꜣyw: robbering(?),  ⲕⲱⲗⲡ,ⲧⲱⲣⲡ
   ḳnw: many, long time :ⲁϣⲁⲓ ⲧⲏ
+  tnw: copt.==> ⲧⲛ- ;each
+                ⲧⲛⲡⲏⲓ: each house
   skꜣ: ⲥⲕⲁⲓ
   ḥbsw:cloth, clothing
   ḫr jr: but, though copt.:ⲁⲗⲗⲁ
   rꜥ-nb  copt.==>ⲙⲏⲛⲉ(adv.)   everyday
+  rwhꜣ: copt.==> ⲣⲟⲩϩⲉ ; evening twilight, dusk
   m-ḫt: after, copt.: ϩⲓⲡⲁϩⲟⲩ
   ḥr sꜣ: after ⲛⲥⲁ-
   jꜣwt:flocks, (referring to mankind)
