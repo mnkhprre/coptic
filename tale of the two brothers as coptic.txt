@@ -33,25 +33,37 @@ transliteration
 coptic version
 
   1- ⲉ ⲛ̅ⲧⲟϥ ϩⲁⲧⲟⲩ ⲥⲟⲛⲟⲩ ⲛ̅ ⲟⲩⲉⲓ ⲙⲁⲁⲩ ⲛ̅ ⲟⲩⲁ ⲉⲓⲱⲧ   ⲓⲛⲡⲩ ⲡⲉϥⲣⲁⲛ ⲡⲁⲟⲩⲛⲟϭ ⲃⲁⲧⲁⲩ ⲡⲉϥⲣⲁⲛ
-     ⲡϣⲏⲣⲉ ⲁⲗⲗⲁ ⲓⲛⲡⲩ _____ⲡⲏⲓ ϩⲁ__ ⲥϩⲓⲙⲉ
-  2- ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ ⲛ̅ⲧⲟⲟⲧϥ̅ ⲛ̅ ϣⲏⲣⲉ ⲛ̅ⲧⲟϥ
+     ⲡϣⲏⲣⲉ ⲁⲗⲗⲁ ⲓⲛⲡⲩ ϩⲁ___ⲡⲏⲓ ϩⲁ__ ⲥϩⲓⲙⲉ
+  2- ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ ⲛ̅ⲧⲟⲟⲧϥ̅ ⲛ̅ ⲉⲧⲁⲥⲥⲓⲛⲉ ⲉⲃⲟⲗ ⲉϣⲱⲃ ϣⲏⲣⲉ ⲛ̅ⲧⲟϥ
   3- ⲛ̅ⲧⲟϥ ⲉⲣⲓⲣⲉ? ⲥⲕⲁⲓ ⲛ̅ⲧⲟϥ ⲕⲱⲗⲡ ϩⲁ ⲛ̅ⲧⲟϥ ⲉⲣⲓⲣⲉ ⲛⲁϥ  ⲟⲩⲱ ⲛⲏⲃ ⲛⲧⲉ ϩⲙ̅ ⲛ̅ⲥⲟϣⲉ ⲉⲓⲥ
      ⲡⲁϥ ⲥⲟⲛ ⲡϣⲏⲣⲉ
-  4- _____ⲛⲟϥⲣⲓ______ ϩⲙ̅ ⲕⲁϩⲓ ⲧⲏⲣϥ̅ ⲉⲓⲥ ⲟⲩⲛ? ⲛⲟϥⲣⲓ  ⲁⲗⲗⲁ ϩⲓⲡⲁϩⲟⲩ ⲁϣⲁⲓ ⲧⲏ ⲛⲁⲓ  ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ
+  4- _____ⲛⲟϥⲣⲓ______ ϩⲙ̅ ⲕⲁϩⲓ ⲧⲏⲣϥ̅ ⲉⲓⲥⲟⲩⲛ̅ⲛⲟϥⲣⲓ  ⲁⲗⲗⲁ ϩⲓⲡⲁϩⲟⲩ ⲁϣⲁⲓ ⲧⲏ ⲛⲁⲓ  ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ
   5- ⲛ̅ⲥⲁ ⲛⲁϥ̅ ⲟϩⲉ ϩⲙ̅ ⲡⲁϥ ____ⲛ̅ⲧⲉ ⲙⲏⲛⲉ ⲛ̅ⲧⲟϥ ϩⲓ ⲉⲓⲧ? ⲉ ⲡⲁϥ  ⲧⲛⲡⲏⲓ ⲣⲟⲩϩⲉ ⲱⲧⲡ
   6-
 
 
 
 glossary
-  jꜣwt: copt.==>ⲟϩⲉ :büyübaş hayvanlar, hayvan sürüler,sürüler
+  jꜣwt: copt.==>ⲟϩⲉ :büyükbaş hayvanlar, hayvan sürüler,sürüler
   sḫrw: waste from crops,
+      ϣⲁϥ: meaning unknown(waste, unwatered land?)
+      ϣⲛⲁ:waste land?
+      ⲣϣⲛⲁ: be waste, dry
+      ϣⲱⲃ:shave, crop, shear, clip
+      ϩⲧⲟⲓ: crop(?)
+      ⲅⲉⲛⲏⲙⲁ: produce, product, fruit
+              crop
+              fruit
+        ⲉ-:from, by means of, to, towards to
+         ⲁⲥⲥⲓⲛⲉ ⲉⲃⲟⲗ ⲉϣⲱⲃ: wasted from crops
+
   js: ⲉⲓⲥ
   ꜣtp ==>ⲱⲧⲡ
   ꜥwꜣyw: robbering(?),  ⲕⲱⲗⲡ,ⲧⲱⲣⲡ
   ḳnw: many, long time :ⲁϣⲁⲓ ⲧⲏ
   tnw: copt.==> ⲧⲛ- ;each
                 ⲧⲛⲡⲏⲓ: each house
+
   skꜣ: ⲥⲕⲁⲓ
   ḥbsw:cloth, clothing
   ḫr jr: but, though copt.:ⲁⲗⲗⲁ
