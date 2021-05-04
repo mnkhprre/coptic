@@ -3,6 +3,7 @@ Author: Mustafa Bilgin                                       ###
 all rights secured by the law                                ###
 source:https://archive.org/details/egyptianhiero00budg       ###
       :https://archive.org/details/cu31924026909618/mode/2up ###
+      :https://coptic-dictionary.org/search.cgi              ###
 ################################################################
 
 
@@ -20,10 +21,11 @@ transliteration
   4-bꜣkw nfr  nn wn ḳdw.f  m tꜣ ḏr.f js wnn.f sn nfr  ḫr jr
     m-ḫt hrw ḳnw ḥr-sꜣ nn [jw pꜣy].f sn šrjw
 
-  5- m-sꜣ nꜣy.f jꜣwt m pꜣy.f sḫrw  nty rꜥ-nb  m ntw.f ḥr
+  5-m-sꜣ nꜣy.f jꜣwt m pꜣy.f sḫrw  nty rꜥ-nb  m ntw.f ḥr
      jjt r pꜣy.f pr tnw  rwhꜣ jw.f ꜣtp
 
-  6- wꜣḥw m-bꜣḥ  pꜣy.f sn ꜥꜣ jw.f ḥms ḥnꜥ
+  6-m sty smw nb n sḫtw nty  jrrw m-ḫt  wḥꜥw m pꜣ sḫt m tw.f
+    wꜣḥw m-bꜣḥ  pꜣy.f sn ꜥꜣ jw.f ḥms ḥnꜥ
 
 
 
@@ -39,7 +41,7 @@ coptic version
      ⲡⲁϥ ⲥⲟⲛ ⲡϣⲏⲣⲉ
   4- _____ⲛⲟϥⲣⲓ______ ϩⲙ̅ ⲕⲁϩⲓ ⲧⲏⲣϥ̅ ⲉⲓⲥⲟⲩⲛ̅ⲛⲟϥⲣⲓ  ⲁⲗⲗⲁ ϩⲓⲡⲁϩⲟⲩ ⲁϣⲁⲓ ⲧⲏ ⲛⲁⲓ  ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ
   5- ⲛ̅ⲥⲁ ⲛⲁϥ ⲟϩⲉ ϩⲙ̅ ⲡⲁϥ ____ⲛ̅ⲧⲉ ⲙⲏⲛⲉ ⲛ̅ⲧⲟϥ (ϩⲓ ⲉⲓⲧ?) ⲉ ⲡⲁϥ  ⲧⲛⲡⲏⲓ ⲣⲟⲩϩⲉ ⲱⲧⲡ
-  6-
+  6- ϩⲛ̅  ⲛⲏⲃ ⲛ̅ ⲛ̅ⲥⲟϣⲉ ⲛ̅ⲧⲉ ⲉⲣⲓⲣⲉ? ϩⲓⲡⲁϩⲟⲩ ⲣⲉϥⲧⲁϩⲉⲧⲃⲧ ϩⲛ̅ ⲡⲁⲥⲟϣⲉ ϩⲙ̅  ϭ ⲙⲟⲧ ⲡⲁϥ ⲥⲟⲛ ⲟⲩⲛⲟϭ ϩⲙⲟⲟⲥ ⲙⲛ
 
 
 
@@ -60,11 +62,13 @@ glossary
 
   js: ⲉⲓⲥ
   ꜣtp ==>ⲱⲧⲡ
+  wḥꜥw: fisherman, copt. ⲣⲉϥⲧⲁϩⲉⲧⲃⲧ
   ꜥwꜣyw: robbering(?),  ⲕⲱⲗⲡ,ⲧⲱⲣⲡ
   ḳnw: many, long time :ⲁϣⲁⲓ ⲧⲏ
   tnw: copt.==> ⲧⲛ- ;each
                 ⲧⲛⲡⲏⲓ: each house
-
+   sty: smell, odour copt.:
+   smw: herb
   skꜣ: ⲥⲕⲁⲓ
   ḥbsw:cloth, clothing
   ḫr jr: but, though copt.:ⲁⲗⲗⲁ
