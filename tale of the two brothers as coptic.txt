@@ -1,11 +1,12 @@
-###################################################################
-Author: Mustafa Bilgin                                          ###                   	               
-all rights secured by the law                                   ###
-source:https://archive.org/details/egyptianhiero00budg          ###
-      :https://archive.org/details/cu31924026909618/mode/2up    ###
-      :https://coptic-dictionary.org/search.cgi                 ###
-      :https://www.britishmuseum.org/collection/object/Y_EA10183-1
-      :https://www.jstor.org/stable/3856106
+####################################################################
+Author: Mustafa Bilgin                                           ###
+all rights secured by the law                                    ###
+sources:https://archive.org/details/egyptianhiero00budg          ###
+       :https://archive.org/details/cu31924026909618/mode/2up    ###
+       :https://coptic-dictionary.org/search.cgi                 ###
+       :https://www.britishmuseum.org/collection/object/Y_EA10183-1
+       :https://www.jstor.org/stable/3856106
+       :http://ramses.ulg.ac.be
 ################################################################
 
 
@@ -26,9 +27,13 @@ transliteration
   5-m-sꜣ nꜣy.f jꜣwt m pꜣy.f sḫrw  nty rꜥ-nb  m ntw.f ḥr
      jjt r pꜣy.f pr tnw  rwhꜣ jw.f ꜣtp
 
-  6-m sty smw nb n sḫtw nty  jrrw m-ḫt  wḥꜥw m pꜣ sḫt m tw.f
+  6-m smw nb n sḫtw nty  jrrw m-ḫt  wḥꜥw m pꜣ sḫt m tw.f
     wꜣḥw m-bꜣḥ  pꜣy.f sn ꜥꜣ jw.f ḥms ḥnꜥ
 
+  7-tꜣy.f ḥmt m tw.f swrjw?  m tw.f jm(j)w  m tw.f sḏrtw m pꜣy.f jhꜣy(w)t
+    m jyr(ꜣ)m nꜣyw.f jꜣwt
+    
+  8-m mnt_ ḫr jr m ḫt tꜣ-ḥḏ 2 n hrw ḫprw jw.f djt nꜣ ꜥḳw jww
 
 
 
@@ -43,7 +48,8 @@ coptic version
      ⲡⲁϥ ⲥⲟⲛ ⲡϣⲏⲣⲉ
   4- _____ⲛⲟϥⲣⲓ______ ϩⲙ̅ ⲕⲁϩⲓ ⲧⲏⲣϥ̅ ⲉⲓⲥⲟⲩⲛ̅ⲛⲟϥⲣⲓ  ⲁⲗⲗⲁ ϩⲓⲡⲁϩⲟⲩ ⲁϣⲁⲓ ⲧⲏ ⲛⲁⲓ  ⲡⲁϥ ⲥⲟⲛ ϣⲏⲣⲉ
   5- ⲛ̅ⲥⲁ ⲛⲁϥ ⲟϩⲉ ϩⲙ̅ ⲡⲁϥ ____ⲛ̅ⲧⲉ ⲙⲏⲛⲉ ⲛ̅ⲧⲟϥ (ϩⲓ ⲉⲓⲧ?) ⲉ ⲡⲁϥ  ⲧⲛⲡⲏⲓ ⲣⲟⲩϩⲉ ⲱⲧⲡ
-  6- ϩⲛ̅  ⲛⲏⲃ ⲛ̅ ⲛ̅ⲥⲟϣⲉ ⲛ̅ⲧⲉ ⲉⲣⲓⲣⲉ? ϩⲓⲡⲁϩⲟⲩ ⲣⲉϥⲧⲁϩⲉⲧⲃⲧ ϩⲛ̅ ⲡⲁⲥⲟϣⲉ ϩⲙ̅  ϭ ⲙⲟⲧ ⲡⲁϥ ⲥⲟⲛ ⲟⲩⲛⲟϭ ϩⲙⲟⲟⲥ ⲙⲛ
+  6- ϩⲛ̅ ⲥⲓⲙ ⲛⲏⲃ ⲛ̅ ⲛ̅ⲥⲟϣⲉ ⲛ̅ⲧⲉ ⲉⲣⲓⲣⲉ? ϩⲓⲡⲁϩⲟⲩ ⲣⲉϥⲧⲁϩⲉⲧⲃⲧ ϩⲛ̅ ⲡⲁⲥⲟϣⲉ ϩⲙ̅  ϭ ⲙⲟⲧ ⲡⲁϥ ⲥⲟⲛ
+     ⲟⲩⲛⲟϭ ϩⲙⲟⲟⲥ ⲙⲛ
 
 
 
@@ -69,8 +75,11 @@ glossary
   ḳnw: many, long time :ⲁϣⲁⲓ ⲧⲏ
   tnw: copt.==> ⲧⲛ- ;each
                 ⲧⲛⲡⲏⲓ: each house
-   sty: smell, odour copt.:
-   smw: herb
+
+   sty smw is actually is just transliterated as smw because it is a variation of
+   smw plant==> copt. ⲥⲓⲙ(?)
+
+   : herb
   skꜣ: ⲥⲕⲁⲓ
   ḥbsw:cloth, clothing
   ḫr jr: but, though copt.:ⲁⲗⲗⲁ
