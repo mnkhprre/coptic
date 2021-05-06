@@ -1,9 +1,11 @@
-################################################################
-Author: Mustafa Bilgin                                       ###
-all rights secured by the law                                ###
-source:https://archive.org/details/egyptianhiero00budg       ###
-      :https://archive.org/details/cu31924026909618/mode/2up ###
-      :https://coptic-dictionary.org/search.cgi              ###
+###################################################################
+Author: Mustafa Bilgin                                          ###                   	               
+all rights secured by the law                                   ###
+source:https://archive.org/details/egyptianhiero00budg          ###
+      :https://archive.org/details/cu31924026909618/mode/2up    ###
+      :https://coptic-dictionary.org/search.cgi                 ###
+      :https://www.britishmuseum.org/collection/object/Y_EA10183-1
+      :https://www.jstor.org/stable/3856106
 ################################################################
 
 
