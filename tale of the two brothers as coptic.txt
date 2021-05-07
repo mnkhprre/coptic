@@ -30,10 +30,19 @@ transliteration
   6-m smw nb n sḫtw nty  jrrw m-ḫt  wḥꜥw m pꜣ sḫt m tw.f
     wꜣḥw m-bꜣḥ  pꜣy.f sn ꜥꜣ jw.f ḥms ḥnꜥ
 
-  7-tꜣy.f ḥmt m tw.f swrjw?  m tw.f jm(j)w  m tw.f sḏrtw m pꜣy.f jhꜣy(w)t
+  7-tꜣy.f ḥmt m tw.f swrjw?  m tw.f jm(j)w  m tw.f sḏrtw m pꜣy.f j.hꜣy(w)t
     m jyr(ꜣ)m nꜣyw.f jꜣwt
-    
-  8-m mnt_ ḫr jr m ḫt tꜣ-ḥḏ 2 n hrw ḫprw jw.f djt nꜣ ꜥḳw jww
+
+  8-m mnt_ ḫr jr m-ḫt tꜣ-ḥḏ 2 n hrw ḫprw jw.f djt nꜣ ꜥḳw jww ps st  m tw.f  wꜣḥw
+    m-bꜣḥ pꜣy.f sn ꜥꜣ
+
+  9- jw.f  djt.n.f ꜥḳw  r sḫtw? m tw.f thm nꜣyw.f jḥw  r djt jmw m sḫtw? jw.f
+     šm(y)t m-sꜣ nꜣyw.f jḥw
+
+  10- jw.sn ḏd n.f nfr pꜣ smw  m tꜣ st mntw m tw.f sḏm pꜣ  ḏd.sn nb m tw.f ḥr
+      jḏꜣw r tꜣ st
+
+  11-
 
 
 
@@ -50,12 +59,13 @@ coptic version
   5- ⲛ̅ⲥⲁ ⲛⲁϥ ⲟϩⲉ ϩⲙ̅ ⲡⲁϥ ____ⲛ̅ⲧⲉ ⲙⲏⲛⲉ ⲛ̅ⲧⲟϥ (ϩⲓ ⲉⲓⲧ?) ⲉ ⲡⲁϥ  ⲧⲛⲡⲏⲓ ⲣⲟⲩϩⲉ ⲱⲧⲡ
   6- ϩⲛ̅ ⲥⲓⲙ ⲛⲏⲃ ⲛ̅ ⲛ̅ⲥⲟϣⲉ ⲛ̅ⲧⲉ ⲉⲣⲓⲣⲉ? ϩⲓⲡⲁϩⲟⲩ ⲣⲉϥⲧⲁϩⲉⲧⲃⲧ ϩⲛ̅ ⲡⲁⲥⲟϣⲉ ϩⲙ̅  ϭ ⲙⲟⲧ ⲡⲁϥ ⲥⲟⲛ
      ⲟⲩⲛⲟϭ ϩⲙⲟⲟⲥ ⲙⲛ
-
+  7- ⲧⲁϥ ⲥϩⲓⲙⲉ ⲛ̅ⲧⲟϥ ⲥⲉ ⲛ̅ⲧⲟϥ ⲉϩⲣⲛ̅ⲧⲟϥ? ϭⲗⲟϭ ϩⲙ̅ ⲡⲁϥ ⲛ̅ⲧⲟϥ ⲕⲉⲗⲓⲥⲧⲣⲁ ϩⲙ̅ ⲙⲛ ⲛⲁϥ ⲟϩⲉ
+  8- ϩⲛ̅  ⲙⲛⲧ ⲁⲗⲗⲁ  ϩⲓⲡⲁϩⲟⲩ ⲡⲕⲁϩ ϩⲁⲧ ⲥⲛⲟⲩ ⲛ̅ ϩⲟⲟⲩ ⲛ̅ϣⲟⲟⲡⲉ? ⲧⲁⲁϥ ⲛⲁⲓ
 
 
 glossary
 (ϩⲓ ⲉⲓⲧ? from ḥr+infinitif in middle egyptian) this must be a pseudo-verbal construction]
-  jꜣwt: copt.==>ⲟϩⲉ :büyükbaş hayvanlar, hayvan sürüler,sürüler
+  jꜣwt: copt.==>ⲟϩⲉ :büyükbaş hayvanlar, hayvan sürüler, sürüler
   sḫrw: waste from crops,
       ϣⲁϥ: meaning unknown(waste, unwatered land?)
       ϣⲛⲁ:waste land?
@@ -87,6 +97,11 @@ glossary
   rwhꜣ: copt.==> ⲣⲟⲩϩⲉ ; evening twilight, dusk
   m-ḫt: after, copt.: ϩⲓⲡⲁϩⲟⲩ
   ḥr sꜣ: after ⲛⲥⲁ-
-  jꜣwt:flocks, (referring to mankind)
+
+  jꜣwt:flocks, (referring to mankind) comes from jḥw ==> ⲟϩⲉ
+  ꜥḳw ⲥⲁϩⲛⲉ
   bꜣkw:revenues, taxes, impost, wages, work, task, workmanship, execution (of a design)
   wpwt: message     copt.: ⲟⲩⲱ
+  swrj: to drink, copt.: ⲥⲉ
+  jhy: copt. ,   stable ⲕⲉⲗⲓⲥⲧⲣⲁ
+  jrm: with, together with, along with
