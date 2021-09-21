@@ -40,9 +40,9 @@ transliteration
      šm(y)t m-sꜣ nꜣyw.f jḥw
 
   10- jw.sn ḏd n.f nfr pꜣ smw  m tꜣ st mntw m tw.f sḏm pꜣ  ḏd.sn nb m tw.f ḥr
-      jḏꜣw r tꜣ st
+      jṯꜣw r tꜣ st
 
-  11-
+  11- r jḳr sp 2 ḫr jr  ḥr trj n skꜣw jw pꜣy.f ḳb
 
 
 
@@ -62,7 +62,9 @@ coptic version
   7- ⲧⲁϥ ⲥϩⲓⲙⲉ ⲛ̅ⲧⲟϥ ⲥⲉ ⲛ̅ⲧⲟϥ ⲉϩⲣⲛ̅ⲧⲟϥ? ϭⲗⲟϭ ϩⲙ̅ ⲡⲁϥ ⲛ̅ⲧⲟϥ ⲕⲉⲗⲓⲥⲧⲣⲁ ϩⲙ̅ ⲙⲛ ⲛⲁϥ ⲟϩⲉ
   8- ϩⲛ̅  ⲙⲛⲧ ⲁⲗⲗⲁ  ϩⲓⲡⲁϩⲟⲩ ⲡⲕⲁϩ ϩⲁⲧ ⲥⲛⲟⲩ ⲛ̅ ϩⲟⲟⲩ ⲛ̅ϣⲱⲡⲉ? ⲉϥϯ ⲛⲁⲓ ⲥⲁϩⲛⲉ ⲛⲁϩⲣⲛ̅ⲡⲁϥ ⲥⲟⲛ ⲡⲛⲟϭ
   9- ⲉϥϯ ⲛⲁϥ ⲥⲁϩⲛⲉ ⲉ ⲛ̅ⲥⲱϣⲉ ⲛ̅ⲧⲟϥ ___(ⲉⲓ ⲛ̅ⲥⲁ(?)) ⲛⲁϥ ⲛ̅ⲟϩⲉ(?) ⲉϯ ⲙⲁⲕϩⲥ ϩⲙ̅ ⲛ̅ⲥⲟϣⲉ ⲉϥ ⲙⲟⲟϣⲉ ⲛⲥⲁ ⲛⲁϥ ⲟϩⲉ
-  10-ⲉⲥⲟⲩ ϣⲁϫⲉ ⲛⲁϥ ⲛⲟϥⲣⲓ ⲡⲁ ⲥⲓⲙ 
+  10-ⲉⲥⲟⲩ ϣⲁϫⲉ ⲛⲁϥ ⲛⲟϥⲣⲓ ⲡⲁ ⲥⲓⲙ ϩⲙ̅ ⲧⲁ(??) ϩⲓ ϫⲓⲟⲩⲉ ⲉ ⲡⲕⲁϩⲓⲥ
+  11- ⲉ  ⲥⲟⲡ(?) ⲥⲛⲟⲩ ϩⲁ
+
 
 
 
@@ -111,5 +113,6 @@ glossary
   swrj: to drink, copt.: ⲥⲉ
   jhy: copt. ,   stable ⲕⲉⲗⲓⲥⲧⲣⲁ
   jrm: with, together with, along with
+  jṯꜣw: to steal, copt.ϫⲓⲟⲩⲉ
   jmw: grief, lament ⲙⲁⲕϩⲥ
   thm: fetch (people, animals), mobilize (troops), kill (prey) [verb]
