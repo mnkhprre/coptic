@@ -42,7 +42,10 @@ transliteration
   10- jw.sn ḏd n.f nfr pꜣ smw  m tꜣ st mntw m tw.f sḏm pꜣ  ḏd.sn nb m tw.f ḥr
       jṯꜣw r tꜣ st
 
-  11- r jḳr sp 2 ḫr jr  ḥr trj n skꜣw jw pꜣy.f ḳb
+  11- nfrt n smw nty st jꜣbtw st nꜣ kꜣw nty r-ḥꜣt.f ḥr ḫprw nfr r jḳr spy ḳb.n
+      msw.sn
+
+  12- r jḳr sp 2 ḫr jr  ḥr trj n skꜣw jw pꜣy.f
 
 
 
@@ -62,8 +65,9 @@ coptic version
   7- ⲧⲁϥ ⲥϩⲓⲙⲉ ⲛ̅ⲧⲟϥ ⲥⲉ ⲛ̅ⲧⲟϥ ⲉϩⲣⲛ̅ⲧⲟϥ? ϭⲗⲟϭ ϩⲙ̅ ⲡⲁϥ ⲛ̅ⲧⲟϥ ⲕⲉⲗⲓⲥⲧⲣⲁ ϩⲙ̅ ⲙⲛ ⲛⲁϥ ⲟϩⲉ
   8- ϩⲛ̅  ⲙⲛⲧ ⲁⲗⲗⲁ  ϩⲓⲡⲁϩⲟⲩ ⲡⲕⲁϩ ϩⲁⲧ ⲥⲛⲟⲩ ⲛ̅ ϩⲟⲟⲩ ⲛ̅ϣⲱⲡⲉ? ⲉϥϯ ⲛⲁⲓ ⲥⲁϩⲛⲉ ⲛⲁϩⲣⲛ̅ⲡⲁϥ ⲥⲟⲛ ⲡⲛⲟϭ
   9- ⲉϥϯ ⲛⲁϥ ⲥⲁϩⲛⲉ ⲉ ⲛ̅ⲥⲱϣⲉ ⲛ̅ⲧⲟϥ ___(ⲉⲓ ⲛ̅ⲥⲁ(?)) ⲛⲁϥ ⲛ̅ⲟϩⲉ(?) ⲉϯ ⲙⲁⲕϩⲥ ϩⲙ̅ ⲛ̅ⲥⲟϣⲉ ⲉϥ ⲙⲟⲟϣⲉ ⲛⲥⲁ ⲛⲁϥ ⲟϩⲉ
-  10-ⲉⲥⲟⲩ ϣⲁϫⲉ ⲛⲁϥ ⲛⲟϥⲣⲓ ⲡⲁ ⲥⲓⲙ ϩⲙ̅ ⲧⲁ(??) ϩⲓ ϫⲓⲟⲩⲉ ⲉ ⲡⲕⲁϩⲓⲥ
-  11- ⲉ  ⲥⲟⲡ(?) ⲥⲛⲟⲩ ϩⲁ
+ 10- ⲉⲥⲟⲩ ϣⲁϫⲉ ⲛⲁϥ ⲛⲟϥⲣⲓ ⲡⲁ ⲥⲓⲙ ϩⲙ̅ ⲧⲁ(??) ϩⲓ ϫⲓⲟⲩⲉ ⲉ ⲡⲕⲁϩⲓⲥ
+ 11- ⲛⲟϥⲣⲓ ⲛ̅ ⲥⲓⲙ ⲉⲧ ⲥⲉ ⲛ
+ 12- ⲉ  ⲥⲟⲡ(?) ⲥⲛⲟⲩ ⲁⲗⲗⲁ ϩⲓ
 
 
 
@@ -103,14 +107,15 @@ glossary
   ḫr jr: but, though copt.:ⲁⲗⲗⲁ
   rꜥ-nb  copt.==>ⲙⲏⲛⲉ(adv.)   everyday
   rwhꜣ: copt.==> ⲣⲟⲩϩⲉ ; evening twilight, dusk
-  m-ḫt: after, copt.: ϩⲓⲡⲁϩⲟⲩ
+  m-ḫt: after, copt.ϩⲓⲡⲁϩⲟⲩ
   ḥr sꜣ: after ⲛⲥⲁ-
 
   jꜣwt:flocks, (referring to mankind) comes from jḥw ==> ⲟϩⲉ
   ꜥḳw ⲥⲁϩⲛⲉ
   bꜣkw:revenues, taxes, impost, wages, work, task, workmanship, execution (of a design)
   wpwt: message     copt.: ⲟⲩⲱ
-  swrj: to drink, copt.: ⲥⲉ
+  swrj: to drink, copt.:ⲥⲉ
+  trj: time,      copt.:ⲧⲏ
   jhy: copt. ,   stable ⲕⲉⲗⲓⲥⲧⲣⲁ
   jrm: with, together with, along with
   jṯꜣw: to steal, copt.ϫⲓⲟⲩⲉ
